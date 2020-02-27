@@ -1,0 +1,18 @@
+.preview{
+    height: 50%;
+    width: 50%;
+}
+
+.thumb{
+    height: 50%;
+    width: 5%;
+    margin-right: 5px;
+
+}
+.normal{
+    border: 1px solid #000;
+    
+}
+
+.selected{border: 3px dashed greenyellow;}
+
